@@ -1,4 +1,4 @@
-# _Capstone-Prj01
+# _Capstone-Prj02
 
 ### Capstone Projects: Optimal Bidding Prices for the UK Energy Market
 
