@@ -20,7 +20,7 @@ Project information:
 
 ▪ Models: Linear Regression, Time Series, Random Forest, XGBoost
 
-▪ Project organisation: AgileBy analysing historical data and understanding the Balancing Mechanism acceptance process, we can uncover insights and forecast optimal bidding prices, helping QEnergy to make informed decisions that can significantly influence their UK energy market strategy. Developing a machine learning model to predict bid/offer prices on the UK Balancing Mechanism market based on historical and industry data. Project information: ▪ Programming language: Python ▪ Main libraries: Numpy, Pandas, Scikit-Learn ▪ Data visualisation: Matplotlib, Seaborn, Plotnine ▪ Models: Linear Regression, Time Series, Random Forest, XGBoost ▪ Project organisation: Agile
+▪ Project organisation: Agile
 
 
 Skills: Exploratory Data Analysis · Machine Learning · Business Storytelling · Statistical Analysis · Data Visualization
